@@ -13,14 +13,17 @@ Task Manager is a Python script that helps you manage your tasks effectively. It
 ## Installation
 
 1.Clone the repository: git clone https://github.com/tbabsonline/finalCapstone.git
+
 ![ Repository Screenshot](https://github.com/tbabsonline/finalCapstone/blob/master/screenshots/screenshot1.png)
 
 2.Navigate to the project directory:
+
 ![Project Directory Files Screenshot](https://github.com/tbabsonline/finalCapstone/blob/master/screenshots/screenshot2.png)
 
 3.Install the required dependencies: VSCode and Python Interpreter
 
 4.Open and Run the script on VSCode:
+
 ![Directory Files on VSCode Screenshot](https://github.com/tbabsonline/finalCapstone/blob/master/screenshots/screenshot3.png)
 
 ## Usage
