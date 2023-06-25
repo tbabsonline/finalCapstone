@@ -47,6 +47,7 @@ e - Exit
 Here's an example of how you can use the Task Manager:
 
 Register a New User:
+
 ![Register a New User Screenshot](https://github.com/tbabsonline/finalCapstone/blob/master/screenshots/screenshot5.png)
 
 Please note that this program assumes the existence of the required text files [tasks.txt](https://github.com/tbabsonline/finalCapstone/blob/master/tasks.txt) and [user.txt](https://github.com/tbabsonline/finalCapstone/blob/master/user.txt) and their correct format. Make sure to provide the necessary input files or modify the program accordingly for your specific use case.
